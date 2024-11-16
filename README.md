@@ -26,13 +26,15 @@ Tareas de 1er Release en progreso en diferentes columnas ( solo se mueven las ty
 ![image](https://github.com/user-attachments/assets/e3131902-406f-4ee3-aed5-5b75571cf950)
 
 Cierre de 1er Release (5%):
-*MOVER TODAS LAS 1ER RELEASE A CLOSED*
+![image](https://github.com/user-attachments/assets/3a39bb94-880c-4ad1-bb6b-f414618bfbbf)
 
 Comienzo de la 2da Release (10%):
-*BASICAMENTE LO MISMO QUE EL 1ER RELEASE, MOVER LAS ISSUES A SPRINT BACKLOG*
+![image](https://github.com/user-attachments/assets/e2a3540c-0f0b-4c21-8471-b9aa65f20c47)
 
 Tareas de la 2da Release en progreso y filtradas por algún topic (15%):
-*UTILIZAR ALGUN TOPIC QUE MUESTRE BASTANTE (MAS DE 2 TAREAS)*
+![image](https://github.com/user-attachments/assets/b88096a5-4210-445e-b3af-d29957d1c832)
 
 Imagen de conversación en dos tareas (10%):
-*AÑADIR COMENTARIOS DE PREGUNTAS Y RESPUESTAS DONDE CORRESPONDA*
+![image](https://github.com/user-attachments/assets/6ba2a266-ebda-43ee-9366-ae968e54243a)
+
+![image](https://github.com/user-attachments/assets/48655743-e8bc-4591-953c-5c7d243c5874)
