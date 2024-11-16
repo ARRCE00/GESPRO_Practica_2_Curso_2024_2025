@@ -13,12 +13,17 @@ Guía de cómo pueden comenzar los usuarios a interactuar con el proyecto. Fase 
  
 Filtro por Epics, US y Tasks en la columna de New Issues (15%):
 
+EPICS: ![image](https://github.com/user-attachments/assets/a280a1cb-5003-4b2d-8d25-aa4e7e466382)
+
+US: ![image](https://github.com/user-attachments/assets/b1233d73-038a-4e22-9c83-8fd1b258b451)
+
+TASKS: ![image](https://github.com/user-attachments/assets/be8d388d-0385-4eae-9c2a-82d6209bcef7)
 
 Tareas de 1er Release en el Sprint Backlog (5%):
-*MOVER LAS NEW ISSUES AL PRODUCT BACKLOG Y DESPUES LAS DEL 1ER RELEASE AL SPRINT + CAPTURA*
+![image](https://github.com/user-attachments/assets/80dc3026-d829-44ed-a08a-219ce961962d)
 
 Tareas de 1er Release en progreso en diferentes columnas ( solo se mueven las type: TASKS) (10%):
-*MOVER LAS TAREAS DEL SPRINT BACKLOG A LAS COLUMNAS IN PROGRESS, REVIEW, DONE, CLOSED*
+![image](https://github.com/user-attachments/assets/e3131902-406f-4ee3-aed5-5b75571cf950)
 
 Cierre de 1er Release (5%):
 *MOVER TODAS LAS 1ER RELEASE A CLOSED*
