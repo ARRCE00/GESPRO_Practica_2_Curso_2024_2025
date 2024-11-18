@@ -14,8 +14,10 @@ Para comenzar deberemos estar registrados en GitHub y tener la extension de Zenh
 ![image](https://github.com/user-attachments/assets/5a3260f1-4c05-4dee-8933-91786424b1d1)
 
 
+
 Tras realizar el FORK debemos cambiar los ajustes de nuestro repositorio, esto solo lo puede realizar el creador del repositorio y no cualquier usuario. En primer lugar activaremos la casilla de ISSUES, así podremos trabajar con el Zenhub sin obtener ningun error:
 ![image](https://github.com/user-attachments/assets/8bafbb21-8d2b-4f74-9e56-b371bf6a9e8b)
+
 
 
 Posteriormente añadiremos a los compañeros como colaboradores del repositorio tal y como se muestra en la siguiente imagen:
