@@ -9,6 +9,8 @@ Pablo Citores Lázaro
 David Santamaría Carrillo
 
 Guía de cómo pueden comenzar los usuarios a interactuar con el proyecto. Fase Github y Zenhub. (15%):
+![image](https://github.com/user-attachments/assets/5a3260f1-4c05-4dee-8933-91786424b1d1)
+
 ![image](https://github.com/user-attachments/assets/8bafbb21-8d2b-4f74-9e56-b371bf6a9e8b)
 
 ![image](https://github.com/user-attachments/assets/8d180519-4af9-4dba-b788-a795018558ee)
