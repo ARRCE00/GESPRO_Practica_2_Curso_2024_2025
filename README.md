@@ -19,9 +19,6 @@ Guía de cómo pueden comenzar los usuarios a interactuar con el proyecto. Fase 
 ![image](https://github.com/user-attachments/assets/8d180519-4af9-4dba-b788-a795018558ee)
 Nuestro compañero Pablo Citores se econtró con problemas al intentar ingresar al repositorio y trabajar en ZenHub con el correo de la universidad, debido a esto tiene como colaboradores dos perfiles.
 Guillermo Arce no se ve reflejado en los colaboradores ya que es el que creó el repositorio.
-
-
-ESTO QUITAR CUANDO TODO BN *CAPTURAS DE HACER COMMIT, AÑADIR USUARIOS Y ACTIVAR LAS ISSUES*
  
 Filtro por Epics, US y Tasks en la columna de New Issues (15%):
 
